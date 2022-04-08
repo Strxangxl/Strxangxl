@@ -26,7 +26,7 @@ I am a Front-End Developer aiming to be a Full Stack Developer <img src="https:/
 
 - :seedling: Trying to gain my skills specially in reactjs, nextjs
 
-- :zap: In my free time, I try to solve problems on GeeksforGeeks related to DSA and read tech articles.
+- :zap: I love competitive programming. So, in my free time, I try to solve problems on GeeksforGeeks related to DSA and read tech articles.
 
 ---
 
