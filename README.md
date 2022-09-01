@@ -22,11 +22,11 @@
 ### :woman_technologist: About Me :
 I am a Front-End Developer aiming to be a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m a Computer Science Student and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Computer Engineering Student and contributing to frontend and backend for building web applications.
 
 - :seedling: Trying to gain my skills specially in reactjs, nextjs & DSA
 
-- :zap: I love competitive programming. So, in my free time, I try to solve problems on GeeksforGeeks related to DSA and read tech articles.
+- :zap: I love competitive programming. So, in my free time, I try to solve problems on GeeksforGeeks related to DSA and read tech articles, blogs.
 
 ---
 
