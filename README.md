@@ -1,7 +1,7 @@
-<div id="header" align="center">
+
   
 ```JavaScript
-const Mbaccari = {
+const Strxangxl = {
     name: "Ratandeep Singh",
     age: 19,
     location: "Maharastra, India",
@@ -9,6 +9,7 @@ const Mbaccari = {
     lookingForWork: true
 }
 ```
+<div id="header" align="center">
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
