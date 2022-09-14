@@ -1,12 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/Instagram-bluevoilet?style=for-the-badge&logo=instagrame&logoColor=white" alt="Instagram Badge"/>
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=Strxangxl&style=flat-square&color=blue" alt=""/>
+```JavaScript
+const Mbaccari = {
+    name: "Ratandeep Singh",
+    age: 19,
+    location: "Maharastra, India",
+    stack: "MERN",
+    lookingForWork: true
+}
+```
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
