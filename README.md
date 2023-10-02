@@ -3,8 +3,8 @@
 ```JavaScript
 const Strxangxl = {
     name: "Ratandeep Singh",
-    age: 19,
-    location: "Maharastra, India",
+    age: 20,
+    location: "Maharashtra, India",
     stack: "MERN",
     lookingForWork: true
 }
