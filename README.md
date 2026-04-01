@@ -33,10 +33,15 @@ Frontend Developer based in Pune. Specialized in building scalable web applicati
 
 ---
 
-### 🏗 Current Work & Learning
-* **Rocket.Chat (EmbeddedChat):** Preparing environment for GSOC 2026; focusing on modular component architecture.
-* **Open Source:** Investigating UI refactoring within the OpenELIS ecosystem.
-* **DSA:** Strengthening algorithmic efficiency for technical interviews.
+### 🌿 Open Source Engagement
+* **Rocket.Chat (EmbeddedChat):** Actively contributing to the UI ecosystem; focused on modular component refactoring for GSOC 2026.
+* **OpenELIS:** Analyzing and tackling frontend bottlenecks to improve laboratory system accessibility.
+* **Collaboration:** Open to collaborating on React/TypeScript projects that solve real-world problems.
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Strxangxl&show_icons=true&theme=transparent)
 
 ---
 
