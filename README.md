@@ -40,11 +40,6 @@ Frontend Developer based in Pune. Specialized in building scalable web applicati
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Strxangxl&show_icons=true&theme=transparent)
-
----
-
 ### 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratandeep1509/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhratandeep2345@gmail.com)
