@@ -34,9 +34,8 @@ Frontend Developer based in Pune. Specialized in building scalable web applicati
 ---
 
 ### 🌿 Open Source Engagement
-* **Rocket.Chat (EmbeddedChat):** Actively contributing to the UI ecosystem; focused on modular component refactoring for GSOC 2026.
-* **OpenELIS:** Analyzing and tackling frontend bottlenecks to improve laboratory system accessibility.
-* **Collaboration:** Open to collaborating on React/TypeScript projects that solve real-world problems.
+* **Rocket.Chat (EmbeddedChat):** Raised PR fixing emoji picker clipping on mobile viewports via React Portals — decoupled overlay DOM from parent overflow:hidden constraints.
+* **OpenELIS-Global-2:** Raised PRs for National ID validation layer and emergency contact domain refactor (flat columns → separate JPA entity).
 
 ---
 
