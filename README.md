@@ -27,15 +27,18 @@ Frontend Developer based in Pune. Specialized in building scalable web applicati
 ### 📁 Featured Projects
 
 #### [Stitch Shop - E-commerce Platform](https://github.com/Strxangxl/stitch-shop)
-* **Problem:** Developing a full-stack marketplace with real-time inventory and responsive UI.
+* **Problem:** Developing a full-stack marketplace with inventory management & responsive UI.
 * **Solution:** Leveraged **Material UI (MUI)** for consistent design language and rapid component development.
 * **Key Tech:** React, Node.js, Material UI, MongoDB.
 
 ---
 
 ### 🌿 Open Source Engagement
-* **Rocket.Chat (EmbeddedChat):** Raised PR fixing emoji picker clipping on mobile viewports via React Portals — decoupled overlay DOM from parent overflow:hidden constraints.
-* **OpenELIS-Global-2:** Raised PRs for National ID validation layer and emergency contact domain refactor (flat columns → separate JPA entity).
+* **Rocket.Chat (EmbeddedChat):** Raised PR fixing emoji picker clipping on 
+mobile viewports via React Portals — actively continuing contributions to 
+the UI ecosystem.
+* **OpenELIS-Global-2:** Raised PRs for National ID validation layer and 
+emergency contact domain refactor (flat columns → separate JPA entity).
 
 ---
 
