@@ -1,13 +1,13 @@
 # Ratandeep Singh | Frontend Developer
 
-Frontend Developer based in Pune. Specialized in building scalable web applications using the **React ecosystem** with a focus on modular architecture and performance optimization.
+Frontend Developer based in pune. I build fast, clean web apps using React & focus on writing reusable code that performs well
 
 ---
 
 ### 🚀 Technical Focus
-* **React & Next.js:** Implementing Server Components and optimized rendering patterns.
-* **State Management:** Using Redux/Context API and exploring atomic state for complex UI logic.
-* **System Design:** Enforcing clean code principles and reusable component patterns.
+* **React & Next.js:** Implementing server components & optimized rendering patterns
+* **State Management:** Managing application state cleanly using redux toolkit & context API
+* **System Design:** Enforcing clean code principles & reusable component patterns
 
 ---
 
@@ -28,17 +28,14 @@ Frontend Developer based in Pune. Specialized in building scalable web applicati
 
 #### [Stitch Shop - E-commerce Platform](https://github.com/Strxangxl/stitch-shop)
 * **Problem:** Developing a full-stack marketplace with inventory management & responsive UI.
-* **Solution:** Leveraged **Material UI (MUI)** for consistent design language and rapid component development.
+* **Solution:** Leveraged **Material UI (MUI)** for consistent design language & rapid component development.
 * **Key Tech:** React, Node.js, Material UI, MongoDB.
 
 ---
 
 ### 🌿 Open Source Engagement
-* **Rocket.Chat (EmbeddedChat):** Raised PR fixing emoji picker clipping on 
-mobile viewports via React Portals — actively continuing contributions to 
-the UI ecosystem.
-* **OpenELIS-Global-2:** Raised PRs for National ID validation layer and 
-emergency contact domain refactor (flat columns → separate JPA entity).
+* **Rocket.Chat (EmbeddedChat):** Raised PR fixing emoji picker clipping on mobile viewports via react portals — actively contributing to the repository
+* **OpenELIS-Global-2:** Raised PRs for National ID validation layer & emergency contact domain refactor (flat columns → separate JPA entity)
 
 ---
 
