@@ -1,6 +1,6 @@
 # Ratandeep Singh | Frontend Developer
 
-Frontend Developer based in pune. I build fast, clean web apps using React & focus on writing reusable code that performs well
+Frontend Developer based in Pune. I build fast, clean web apps using React & focus on writing reusable code that performs well
 
 ---
 
@@ -26,10 +26,10 @@ Frontend Developer based in pune. I build fast, clean web apps using React & foc
 
 ### 📁 Featured Projects
 
-#### [Stitch Shop - E-commerce Platform](https://github.com/Strxangxl/stitch-shop)
-* **Problem:** Developing a full-stack marketplace with inventory management & responsive UI.
-* **Solution:** Leveraged **Material UI (MUI)** for consistent design language & rapid component development.
-* **Key Tech:** React, Node.js, Material UI, MongoDB.
+#### [Stitch Shop v2 - E-commerce Platform](https://github.com/Strxangxl/stitchshop-v2)
+* **Problem:** Building a modern e-commerce storefront with clean UI & state management.
+* **Solution:** Built with Next.js, TypeScript & Redux Toolkit — features cart, auth, skeleton loaders & sort by price.
+* **Key Tech:** Next.js, TypeScript, Redux Toolkit, Tailwind CSS, MongoDB.
 
 ---
 
